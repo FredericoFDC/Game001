@@ -1,0 +1,11 @@
+﻿  IRoseWindows.cpp
+C:\Users\User\Desktop\CPP\IRoseWindows\IRoseWindows\IRoseWindows\IRoseWindows.cpp(38,96): error C2664: 'int WideCharToMultiByte(UINT,DWORD,LPCWCH,int,LPSTR,int,LPCCH,LPBOOL)': não é possível converter um argumento 5 de 'const _Elem *' em 'LPSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\User\Desktop\CPP\IRoseWindows\IRoseWindows\IRoseWindows\IRoseWindows.cpp(38,71): message : Conversão perde qualificadores
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\stringapiset.h(141,1): message : consulte a declaração de 'WideCharToMultiByte'
+C:\Users\User\Desktop\CPP\IRoseWindows\IRoseWindows\IRoseWindows\IRoseWindows.cpp(102,13): error C3861: 'Button_GetCheck': identificador não encontrado
+C:\Users\User\Desktop\CPP\IRoseWindows\IRoseWindows\IRoseWindows\IRoseWindows.cpp(161,24): error C3861: 'Button_GetCheck': identificador não encontrado
+C:\Users\User\Desktop\CPP\IRoseWindows\IRoseWindows\IRoseWindows\IRoseWindows.cpp(179,9): error C3861: 'Button_SetCheck': identificador não encontrado

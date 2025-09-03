@@ -1,0 +1,3 @@
+﻿  salario.cpp
+C:\Users\User\Desktop\CPP\Salario\Salario\salario.cpp(20,20): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+  Salario.vcxproj -> C:\Users\User\Desktop\CPP\Salario\Debug\Salario.exe
